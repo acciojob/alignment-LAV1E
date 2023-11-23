@@ -7,10 +7,14 @@
     background-color: blue;
 }
 
-.center {
-    text-align: center;
+#t12,#t22,#t32{
+	text-align:center;
 }
 
 .right {
     text-align: right;
 }
+#t11{
+	border:1px solid rgb(0, 0, 0);
+}
+
